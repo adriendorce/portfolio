@@ -1,27 +1,27 @@
 # My Portfolio
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+
+Portfolio site including links to my projects and ways to get in contact with me.
 
 **Link to project:** https://adriendorce.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+![homepage](https://user-images.githubusercontent.com/117544619/229135211-34f41c29-5535-478c-b4a4-c4c39b593618.gif)
+
 
 ## How It's Made:
 
 **Tech used:** ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
-
-My learning was focused on 
+My learning was focused on clean HTML code paired with CSS and Javascript.
 
 ## Optimizations
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
-
-When I improve this project I will 
+When I improve this project I will add an option to seamlessly move between sections.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+Separations of concern. Starting simple in HTML. Using HTML to build up the CSS, and then Javascript for behavorability. How Javascript and jQuery work together. 
+
+Importance on using PHP, Javascript or a form builder for forms.
 
 
 ## Examples:
@@ -29,7 +29,7 @@ Take a look at what I have in my own portfolio:
 
 **Hair Salon:** https://github.com/adriendorce/hairsalon
 
-**Twitter Battle:** https://github.com/adriendorce/twitter-battle
+**Insert:** https://github.com/adriendorce/insert
 
 
 
