@@ -27,7 +27,7 @@ Importance on using PHP, Javascript or a form builder for forms.
 ## Examples:
 Take a look at what I have in my own portfolio:
 
-**Hair Salon:** https://github.com/adriendorce/hairsalon
+**Hair Salon:** https://github.com/adriendorce/salon
 
 **Insert:** https://github.com/adriendorce/insert
 
