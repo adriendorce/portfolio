@@ -4,7 +4,7 @@ Portfolio site including links to my projects and ways to get in contact with me
 
 **Link to project:** https://adriendorce.com/
 
-![homepage](https://user-images.githubusercontent.com/117544619/229135211-34f41c29-5535-478c-b4a4-c4c39b593618.gif)
+![portfolio-homepage](https://github.com/adriendorce/portfolio/assets/117544619/875c0cfb-3f91-4dfe-9655-864dc6b7d481)
 
 
 ## How It's Made:
