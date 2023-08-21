@@ -33,11 +33,11 @@
 		white-space: nowrap;
 
 		&:hover {
-			background-color: _palette(border-bg);
+			background-color: rgb(198, 164, 173);
 		}
 
 		&:active {
-			background-color: _palette(border-bg-alt);
+			background-color: rgb(198, 164, 173);
 		}
 
 		&.icon {
