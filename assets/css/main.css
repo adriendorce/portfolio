@@ -1377,11 +1377,11 @@ input, select, textarea {
 				}
 
 					#header nav ul li a:hover {
-						background-color: rgba(255, 255, 255, 0.075);
+						background-color: rgb(198, 164, 173);
 					}
 
 					#header nav ul li a:active {
-						background-color: rgba(255, 255, 255, 0.175);
+						background-color: rgb(198, 164, 173);
 					}
 
 		#header nav.use-middle:after {
